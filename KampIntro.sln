@@ -3,23 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{B8531A9A-8A79-4DFD-B201-A460FFF35162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{B8531A9A-8A79-4DFD-B201-A460FFF35162}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{D44E9B86-760C-4402-94DA-DABA05B7231C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{D44E9B86-760C-4402-94DA-DABA05B7231C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{67FBFC70-3BFC-4A32-946E-DEB291C44E1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{67FBFC70-3BFC-4A32-946E-DEB291C44E1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{111DA71E-DFCD-40E7-A061-D87F1F19F4DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{111DA71E-DFCD-40E7-A061-D87F1F19F4DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{46AA592D-83C1-40D7-9B7F-8601E42725D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{46AA592D-83C1-40D7-9B7F-8601E42725D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{E6C97EBE-7ECA-492A-8713-FD98E2F53687}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{E6C97EBE-7ECA-492A-8713-FD98E2F53687}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{09B34FB1-933C-4261-BE54-A576DF14F343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{09B34FB1-933C-4261-BE54-A576DF14F343}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{608237EE-0EBB-4BAB-975B-EE3E904D809C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{608237EE-0EBB-4BAB-975B-EE3E904D809C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{0315B03D-1747-49C1-8311-08276527097F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{0315B03D-1747-49C1-8311-08276527097F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{489353E8-EB3C-47B6-B1E8-B9276A7B1D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{5E193015-3049-48A9-BBC8-EDE5576730DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{0315B03D-1747-49C1-8311-08276527097F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0315B03D-1747-49C1-8311-08276527097F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0315B03D-1747-49C1-8311-08276527097F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489353E8-EB3C-47B6-B1E8-B9276A7B1D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489353E8-EB3C-47B6-B1E8-B9276A7B1D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489353E8-EB3C-47B6-B1E8-B9276A7B1D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489353E8-EB3C-47B6-B1E8-B9276A7B1D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E193015-3049-48A9-BBC8-EDE5576730DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E193015-3049-48A9-BBC8-EDE5576730DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E193015-3049-48A9-BBC8-EDE5576730DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E193015-3049-48A9-BBC8-EDE5576730DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
